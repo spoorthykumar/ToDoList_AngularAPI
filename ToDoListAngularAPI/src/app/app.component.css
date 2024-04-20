@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    font-size: 2rem;
+}
+
+#btnSubmit{
+    margin-top: 20px;
+}
+
+.stroke{
+    text-decoration: line-through;
+}
+  
